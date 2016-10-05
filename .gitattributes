@@ -2,3 +2,5 @@ mlnx_sn2700/kernel_3.10.0-54/flexswitch_mlnx_sn2700-1.0.0.118_amd64.deb filter=l
 mlnx_sn2700/kernel_3.10.0-54/flexswitch_mlnx_sn2700-1.0.0.127_amd64.deb filter=lfs diff=lfs merge=lfs -text
 mlnx_sn2700/kernel_3.10.0-54/flexswitch_mlnx-1.0.0.129_amd64.deb filter=lfs diff=lfs merge=lfs -text
 mlnx_sn2700/kernel_3.10.0-54/flexswitch_mlnx-1.0.0.140_amd64.deb filter=lfs diff=lfs merge=lfs -text
+mlnx_sn2700/kernel_3.10.0-54 filter=lfs diff=lfs merge=lfs -text
+mlnx_sn2700/kernel_3.10.0-54/flexswitch_mlnx-release_1.0.0.170.5_amd64.deb filter=lfs diff=lfs merge=lfs -text
